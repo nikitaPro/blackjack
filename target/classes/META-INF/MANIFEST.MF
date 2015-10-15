@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1444911496893
+Build-Jdk: 1.8.0_60
+Built-By: Antoniy
+Bundle-Activator: com.sigma.Activator
+Bundle-Description: bj OSGi bundle project.
+Bundle-ManifestVersion: 2
+Bundle-Name: bj Bundle
+Bundle-SymbolicName: bj
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.sigma;uses:="org.osgi.framework";version="1.0.0.SNAP
+ SHOT"
+Import-Package: org.osgi.framework;version="[1.5,2)"
+Tool: Bnd-1.50.0
